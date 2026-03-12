@@ -6,4 +6,4 @@
 <a href="https://www.linkedin.com/posts/ek0_learnmode-activity-7380666365495500800-BIcV?utm_source=share&utm_medium=member_android&rcm=ACoAAEZ0Xn4BNB035skDbZ46nRJ_PcVIIwlRVuk">Learn Mode</a>
 
 
- Designed a simple web application UI where users can find the videos of their learning subject.
+ Designed a simple web application UI where users can find videos for their learning subjects.
